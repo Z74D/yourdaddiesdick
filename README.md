@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yourdaddiesdick
+- 👋 Hi, I’m ZHAD
 - 👀 I’m interested in web 3 
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on making chilled apps and stuff
