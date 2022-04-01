@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ZHAD
 - 👀 I’m interested in web 3 
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C#, C++ and Python
 - 💞️ I’m looking to collaborate on making chilled apps and stuff
 - 📫 How to reach me, my email, or just don't.
 
